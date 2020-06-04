@@ -1,0 +1,29 @@
+﻿<Window x:Class="ScreenshotTaker.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ScreenshotTaker.UI"
+        mc:Ignorable="d"
+        Title="Screenshot Taker" Height="450" Width="800">
+    <Grid>
+        <Grid Margin="10,45,10,10">
+            <InkCanvas x:Name="inkCanvas"/>
+        </Grid>
+        <Menu VerticalAlignment="Top" HorizontalAlignment="Left" Background="White">
+            <MenuItem Header="File" Width="35" Height="25">
+                <MenuItem Header="Open" Name="ItemOpen" Background="White" Click="ItemOpenClick" MouseEnter="AboutOpenEnter">
+                </MenuItem>
+                <MenuItem Header="Save" Name="ItemSave" Background="White" Click="ItemSaveClick" MouseEnter="AboutSaveEnter">
+                </MenuItem>
+                <MenuItem Header="Export" Name="ItemExport"  Background="White" Click="ItemExportClick" MouseEnter="AboutExportEnter">
+                </MenuItem>
+                <MenuItem Header="Exit" Name="ItemExit" Background="White" Click="ItemExitClick"/>
+            </MenuItem>
+            <MenuItem Header="Capture" Background="White" Click="CaptureClick"/>
+            <MenuItem Header="Clear All" Background="White" Click="ClearClick"/>
+            <MenuItem Header="Color Picker" Background="White" Click="ColorPickerClick"/>
+        </Menu>
+       
+    </Grid>
+</Window>

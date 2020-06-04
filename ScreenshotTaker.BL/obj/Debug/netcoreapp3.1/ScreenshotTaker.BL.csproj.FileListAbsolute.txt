@@ -1,0 +1,9 @@
+D:\Code\ScreenshotTaker\ScreenshotTaker.BL\bin\Debug\netcoreapp3.1\ScreenshotTaker.BL.deps.json
+D:\Code\ScreenshotTaker\ScreenshotTaker.BL\bin\Debug\netcoreapp3.1\ScreenshotTaker.BL.dll
+D:\Code\ScreenshotTaker\ScreenshotTaker.BL\bin\Debug\netcoreapp3.1\ScreenshotTaker.BL.pdb
+D:\Code\ScreenshotTaker\ScreenshotTaker.BL\obj\Debug\netcoreapp3.1\ScreenshotTaker.BL.csprojAssemblyReference.cache
+D:\Code\ScreenshotTaker\ScreenshotTaker.BL\obj\Debug\netcoreapp3.1\ScreenshotTaker.BL.AssemblyInfoInputs.cache
+D:\Code\ScreenshotTaker\ScreenshotTaker.BL\obj\Debug\netcoreapp3.1\ScreenshotTaker.BL.AssemblyInfo.cs
+D:\Code\ScreenshotTaker\ScreenshotTaker.BL\obj\Debug\netcoreapp3.1\ScreenshotTaker.BL.dll
+D:\Code\ScreenshotTaker\ScreenshotTaker.BL\obj\Debug\netcoreapp3.1\ScreenshotTaker.BL.pdb
+D:\Code\ScreenshotTaker\ScreenshotTaker.BL\obj\Debug\netcoreapp3.1\ScreenshotTaker.BL.csproj.CoreCompileInputs.cache

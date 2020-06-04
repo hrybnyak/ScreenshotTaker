@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kaEzEmBHZrVQcK/e6Wj5CYPQSEUz3cegO7DTy39Dzd41JXGGgMVauHCQneq6Mu/DthkSkhksAFfWOyY7vHmGHg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\ScreenshotTaker\\ScreenshotTaker.BL\\ScreenshotTaker.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lisa\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lisa\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Lisa\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
